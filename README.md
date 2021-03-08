@@ -6,6 +6,6 @@ Estoy dando mis primeros paso en el desarrollo web y subo mis proyectos aquí pa
 # Desarrolado con 🛠
 Visual Studio Code
 
-#Autor ✒
+# Autor ✒
 Javier S. López
 
